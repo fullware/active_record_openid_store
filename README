@@ -1,5 +1,7 @@
 =Active Record OpenID Store Plugin
 
+Extracted from http://github.com/openid/ruby-openid 2.1.8
+
 A store is required by an OpenID server and optionally by the consumer
 to store associations, nonces, and auth key information across
 requests and processes.  If rails is distributed across several
